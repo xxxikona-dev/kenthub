@@ -1,8 +1,3 @@
--- Gui to Lua
--- Version: 3.2
-
--- Instances:
-
 local kenthub = Instance.new("ScreenGui")
 local Frame = Instance.new("Frame")
 local UICorner = Instance.new("UICorner")
@@ -776,3 +771,4 @@ local function TNQGTZ_fake_script() -- Tp.LocalScript
 	
 end
 coroutine.wrap(TNQGTZ_fake_script)()
+
